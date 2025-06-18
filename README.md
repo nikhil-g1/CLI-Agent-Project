@@ -1,7 +1,7 @@
 # CLI Agent: Fine-Tuning a 0.5B Model for Shell Instruction Generation
 
 ## A. Data Sources
-Collected 150+ public Q&A samples related to command-line tasks across topics like Git, Bash, cron, Docker, venv, and file compression. These were cleaned and formatted into instructional-style prompts and responses.
+A public Stack Overflow Q&A dataset focused on command-line and developer-related tasks rom kaggle. It is in two parts training and testing. I used the test split of the dataset and sampled 200 Q&A pairs from it for evaluation purposes.
 
 ## B. Model & Hyperparameters
 - **Base model:** `Qwen/Qwen2-0.5B`
