@@ -1,5 +1,3 @@
-# CLI-Agent-Project
-
 # CLI Agent: Fine-Tuning a 0.5B Model for Shell Instruction Generation
 
 ## A. Data Sources
