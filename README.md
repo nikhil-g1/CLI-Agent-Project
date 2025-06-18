@@ -1,7 +1,7 @@
 # CLI Agent: Fine-Tuning a 0.5B Model for Shell Instruction Generation
 
 ## A. Data Sources
-A public Stack Overflow Q&A dataset focused on command-line and developer-related tasks rom kaggle. It is in two parts training and testing. I used the test split of the dataset and sampled 200 Q&A pairs from it for evaluation purposes.
+A public Stack Overflow Q&A dataset focused on command-line and developer-related tasks from kaggle. It is in two parts training and testing. I used the test split of the dataset and sampled 200 Q&A pairs from it for evaluation purposes.
 
 ## B. Model & Hyperparameters
 - **Base model:** `Qwen/Qwen2-0.5B`
