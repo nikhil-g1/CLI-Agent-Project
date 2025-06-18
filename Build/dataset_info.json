@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "Title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Body": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Tags": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "CreationDate": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Y": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
